@@ -7,7 +7,7 @@ actually rewrites the buggy line of code.gw
 """l,l,l,UGQIUGxdqvqxgffff
 
 from __future__ import annotations
-xxxxx
+xxxxxgggg
 import os
 import sys;;uxfyu
 
