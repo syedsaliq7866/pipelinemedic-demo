@@ -9,7 +9,7 @@ actually rewrites the buggy line of code.
 from __future__ import annotations
 
 import os
-import sys;;;;
+import sys;;uxfyu
 
 import requests
 from fastapi import FastAPI, HTTPException
