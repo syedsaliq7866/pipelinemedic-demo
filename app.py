@@ -3,8 +3,7 @@
 A tiny FastAPI microservice used to demo the PipelineMedic flow end
 to end. Contains a realistic logic bug in the /add endpoint — the
 test suite catches it, CI fails, and PipelineMedic opens a PR thatnnnnh
-actually rewrites the buggy line of code.gw/////   nnn
-"""l,l,l,UGQIUGxdqvqxgffff
+actually rewrites the buggy line of code.gw/////   nnnggf
 jjj
 from __future__ import annotations
 xxxxxgggg
